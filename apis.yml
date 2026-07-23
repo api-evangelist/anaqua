@@ -1,8 +1,24 @@
 aid: anaqua
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/anaqua.png
 name: Anaqua
-description: 'Anaqua is a company surfaced as a portfolio company of bessemer-venture-partners, insight-partners
-  and added to the API Evangelist network as a stub for enrichment. Sector: cloud. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'Anaqua provides intellectual property management (IPMS) software and services for corporations
+  and law firms, unifying patent, trademark, and broader IP portfolio operations through process automation,
+  business intelligence, and analytics. Its AQX platform (AQX Corporate, AQX Law Firm, AQX Pharma) is
+  complemented by PATTSY WAVE portfolio analytics, AcclaimIP patent search, ideaPoint innovation management,
+  and IP services such as annuity, renewal, foreign filing, and docketing. Clients include Adidas, ARM,
+  TSMC, and GSK. Backed by Insight Partners and Bessemer Venture Partners, Anaqua does not currently publish
+  a public developer API or portal; integration is handled via its SeeUnity application-integration technology.'
 url: https://raw.githubusercontent.com/api-evangelist/anaqua/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -17,6 +33,13 @@ modified: '2026-07-17'
 tags:
 - Company
 - Cloud
+- Intellectual Property
+- IP Management
+- Patents
+- Trademarks
+- Legal Tech
+- SaaS
+- Innovation Management
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,5 +47,20 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/anaqua-domain-security.yml
 - type: Website
   url: https://www.anaqua.com/
+- type: Blog
+  url: https://www.anaqua.com/resources/
+- type: Support
+  url: https://ace.anaqua.com/hc/en-us
+- type: PrivacyPolicy
+  url: https://www.anaqua.com/privacy-policy/
+- type: TermsOfService
+  url: https://www.anaqua.com/terms-and-conditions-of-use/
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
