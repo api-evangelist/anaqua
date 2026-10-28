@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Anaqua is a company surfaced as a portfolio company of bessemer-venture-partners, insight-partners and added to the API Evangelist network as a stub for enrichment. Sector: cloud. This profile is a lead awaiting the enrichment pipeline.
+Anaqua provides intellectual property management (IPMS) software and services for corporations and law firms, unifying patent, trademark, and broader IP portfolio operations through process automation, business intelligence, and analytics. Its AQX platform (AQX Corporate, AQX Law Firm, AQX Pharma) is complemented by PATTSY WAVE portfolio analytics, AcclaimIP patent search, ideaPoint innovation management, and IP services such as annuity, renewal, foreign filing, and docketing. Clients include Adidas, ARM, TSMC, and GSK. Backed by Insight Partners and Bessemer Venture Partners, Anaqua does not currently publish a public developer API or portal; integration is handled via its SeeUnity application-integration technology.
 
-Backed by: bessemer-venture-partners, insight-partners — https://www.anaqua.com/
+**Areas:** Company · Cloud · Intellectual Property · IP Management · Patents · Trademarks · Legal Tech · Software-as-a-Service · Innovation Management
+
+## Anaqua on APIs.io
+
+Everything profiled for Anaqua is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/anaqua/](https://apis.io/providers/anaqua/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Anaqua Domain Security](https://apis.io/security/anaqua/anaqua-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.anaqua.com/)
+- [Support](https://ace.anaqua.com/hc/en-us)
+- [Blog](https://www.anaqua.com/resources/blog)
+- [Terms of service](https://www.anaqua.com/terms-and-conditions-of-use/)
+- [Privacy policy](https://www.anaqua.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 9.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/anaqua/](https://apis.io/providers/anaqua/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Anaqua: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/anaqua/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
